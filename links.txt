@@ -1,1 +1,10 @@
+Activar PowerUP en BIOS
+Desactivar suspensión en plan de energía
+Borrar contraseña
+Instalar tightvnc: https://www.tightvnc.com/
+Copiar IP y probar conexión
+Instalar VirtualMON:
 https://firebasestorage.googleapis.com/v0/b/inkcu-80823.appspot.com/o/inkcu_tools%2Fvirtualmon.zip?alt=media&token=b978830a-be97-4f92-b751-ca11f5840653
+
+Instalar InkCuCAM:
+https://firebasestorage.googleapis.com/v0/b/inkcu-80823.appspot.com/o/inkcu_tools%2Finkcu_cam.zip?alt=media&token=772a791a-6c7b-4cbf-86b3-49c9673635b6
