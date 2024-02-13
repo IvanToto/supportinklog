@@ -8,3 +8,6 @@ https://firebasestorage.googleapis.com/v0/b/inkcu-80823.appspot.com/o/inkcu_tool
 
 Instalar InkCuCAM:
 https://firebasestorage.googleapis.com/v0/b/inkcu-80823.appspot.com/o/inkcu_tools%2Finkcu_cam.zip?alt=media&token=772a791a-6c7b-4cbf-86b3-49c9673635b6
+
+V1
+https://firebasestorage.googleapis.com/v0/b/inkcu-80823.appspot.com/o/inkcu_tools%2FinkcuV1.zip?alt=media&token=72105a4d-123d-4896-b295-45c8d2f5a500
